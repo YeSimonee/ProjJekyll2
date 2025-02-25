@@ -4,7 +4,7 @@ layout: default
 <!-- Hero Section -->
 <section id="hero" class="hero section dark-background">
 
-<img src="/assets/img/Tor vergata/MacroariaScienze1.jpg" alt="">
+<img src="/assets/img/Tor%20vergata/LogoTorVergata.png" alt="">
 
 <div class="container">
     <div class="row">
