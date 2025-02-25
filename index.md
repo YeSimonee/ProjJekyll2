@@ -260,7 +260,7 @@ layout: default
     </div>
     <div class="col-lg-5 position-relative" data-aos="zoom-out" data-aos-delay="200">
         <div class="phone-wrap">
-        <img src="{{ site.baseurl }}assets/img/Tor vergata/LogoTorVergata2.png" alt="Image" class="img-fluid">
+        <img src="/assets/img/Tor vergata/LogoTorVergata2.png" alt="Image" class="img-fluid">
         </div>
     </div>
     </div>
