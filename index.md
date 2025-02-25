@@ -4,7 +4,7 @@ layout: default
 <!-- Hero Section -->
 <section id="hero" class="hero section dark-background">
 
-<img src="{{ site.baseurl }}/assets/img/Tor vergata/MacroariaScienze1.jpg" alt="">
+<img src="/assets/img/Tor vergata/MacroariaScienze1.jpg" alt="">
 
 <div class="container">
     <div class="row">
@@ -104,7 +104,7 @@ layout: default
         <div class="row gy-4">
 
         <div class="col-lg-6 col-md-8 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"> <img src="{{ site.baseurl }}/assets/img/Tor vergata/AI.jpeg" alt="Icona personalizzata" style="width: 400px; height: 300px;">   </div>
+            <div class="icon flex-shrink-0"> <img src="/assets/img/Tor vergata/AI.jpeg" alt="Icona personalizzata" style="width: 400px; height: 300px;">   </div>
             <div>
             <h4 class="title">Intelligenza Artificiale</h4>
             <p class="description">L'intelligenza artificiale (IA) è l'abilità di una macchina di mostrare capacità umane quali il ragionamento, l'apprendimento, la pianificazione e la creatività.</p>
@@ -113,7 +113,7 @@ layout: default
         </div>  <!-- End Service Item -->
 
         <div class="col-lg-6 col-md-8 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><img src="{{ site.baseurl }}/assets/img/Tor vergata/DistributedComputing.jpg" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
+            <div class="icon flex-shrink-0"><img src="/assets/img/Tor vergata/DistributedComputing.jpg" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
             <div>
             <h4 class="title">Distributed computing</h4>
             <p class="description">L'informatica distribuita è un campo dell'informatica che studia i sistemi distribuiti, definiti come sistemi informatici i cui componenti intercomunicanti si trovano su diversi computer collegati in rete .</p>
@@ -122,7 +122,7 @@ layout: default
         </div><!-- End Service Item -->
 
         <div class="col-lg-6 col-md-8 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><img src="{{ site.baseurl }}/assets/img/Tor vergata/BigData.webp" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
+            <div class="icon flex-shrink-0"><img src="/assets/img/Tor vergata/BigData.webp" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
             <div>
             <h4 class="title">Big Data</h4>
             <p class="description">Il termine "big data" si riferisce a dati informatici così grandi, veloci o complessi, difficili o impossibili da elaborare con i metodi tradizionali. L'accesso e la memorizzazione di grandi quantità di informazioni su cui effettuare analisi sono attività disponibili da molto tempo.</p>
@@ -131,7 +131,7 @@ layout: default
         </div><!-- End Service Item -->
 
         <div class="col-lg-6 col-md-8 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><img src="{{ site.baseurl }}/assets/img/Tor vergata/SoftwareSystem.jpg" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
+            <div class="icon flex-shrink-0"><img src="/assets/img/Tor vergata/SoftwareSystem.jpg" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
             <div>
             <h4 class="title">Software System</h4>
             <p class="description">
@@ -141,7 +141,7 @@ layout: default
         </div><!-- End Service Item -->
 
         <div class="col-lg-6 col-md-8 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><img src="{{ site.baseurl }}/assets/img/Tor vergata/ComplexNetwork.webp" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
+            <div class="icon flex-shrink-0"><img src="/assets/img/Tor vergata/ComplexNetwork.webp" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
             <div>
             <h4 class="title">Complex Network</h4>
             <p class="description">Un complex network è un tipo di rete composta da nodi e connessioni che non seguono una struttura semplice o prevedibile. Queste reti sono caratterizzate da interconnessioni non uniformi, che possono includere gruppi di nodi ad alta densità di connessioni, o "cluster", e nodi che sono connessi a molti altri nodi, noti come "hub" (nodi centrali).</p>
@@ -150,7 +150,7 @@ layout: default
         </div><!-- End Service Item -->
 
         <div class="col-lg-6 col-md-8 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><img src="{{ site.baseurl }}/assets/img/Tor vergata/DataSecurity.jpg" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
+            <div class="icon flex-shrink-0"><img src="/assets/img/Tor vergata/DataSecurity.jpg" alt="Icona personalizzata" style="width: 400px; height: 300px;"> </div>
             <div>
             <h4 class="title">Data Security</h4>
             <p class="description">La Data Security (sicurezza dei dati) si riferisce a un insieme di pratiche, tecnologie e politiche progettate per proteggere i dati da accessi non autorizzati, furti, danneggiamenti o perdite. La sicurezza dei dati è fondamentale per mantenere la riservatezza, l'integrità e la disponibilità delle informazioni sensibili, sia in transito che a riposo.</p>
@@ -170,7 +170,7 @@ layout: default
 <!-- Call To Action Section -->
 <section id="call-to-action" class="call-to-action section dark-background">
 
-    <img src="{{ site.baseurl }}/assets/img/Tor vergata/UniTor.jpg" alt="">
+    <img src="/assets/img/Tor vergata/UniTor.jpg" alt="">
     
     <div class="container">
         <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
